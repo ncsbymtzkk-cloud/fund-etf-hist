@@ -45,7 +45,10 @@ print(df)
 # 前提：安装 AKShare
 pip install akshare
 
-# 安装技能
+# 方式1：npx（推荐）
+npx skills add ncsbymtzkk-cloud/fund-etf-hist
+
+# 方式2：SkillHub
 skillhub install https://github.com/ncsbymtzkk-cloud/fund-etf-hist
 ```
 
