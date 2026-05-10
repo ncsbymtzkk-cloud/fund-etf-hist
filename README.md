@@ -45,8 +45,8 @@ print(df)
 # 前提：安装 AKShare
 pip install akshare
 
-# 复制到系统Skills目录
-cp -r fund-etf-hist ~/.claude/skills/
+# 安装技能
+skillhub install https://github.com/ncsbymtzkk-cloud/fund-etf-hist
 ```
 
 ## 依赖
